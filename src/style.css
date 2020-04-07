@@ -1,0 +1,26 @@
+header {
+  display: flex;
+  align-items: center; }
+
+img {
+  max-width: 100px; }
+
+.headline, .lead {
+  text-align: center; }
+
+button {
+  padding: 10px;
+  width: 100px;
+  height: 45px; }
+
+.current-tab {
+  background-color: #333333;
+  color: white; }
+
+.tabInfoContainer {
+  background-color: #666;
+  padding: 10px;
+  height: 600px;
+  color: white; }
+
+/*# sourceMappingURL=style.css.map */
